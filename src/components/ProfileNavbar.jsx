@@ -147,7 +147,7 @@ const ProfileNavBar = ({ setSaidList }) => {
               <img src={logo} className="logo" alt="" />
             </span>
             <span className="d-flex ac-jc">
-              <h2 className="f8 text fs-sm-10 fs-md-10 fs-lg-11 fs-xl-15 fs-xxl-18 white mb-0">OrderZest</h2>
+              <h2 className="f8 text fs-sm-10 fs-md-10 fs-lg-11 fs-xl-15 fs-xxl-18 white mb-0">Restaurant</h2>
             </span>
           </div>
         </div>

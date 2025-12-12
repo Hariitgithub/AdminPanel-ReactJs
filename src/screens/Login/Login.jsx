@@ -60,7 +60,7 @@ const Login = () => {
             <div className='login-left col-md-6 col-sm-6'>
                 <div className='w-100'>
                     <img src={logo} alt='' className='login_img' />
-                    <h2 className='f9 fs-sm-20 fs-md-30 fs-lg-42 fs-xl-46 fs-xxl-52 text-center white'>OrderZest</h2>
+                    <h2 className='f9 fs-sm-20 fs-md-30 fs-lg-42 fs-xl-46 fs-xxl-52 text-center white'>Restaurant Admin</h2>
                 </div>
             </div>
             <div className='login-right col-md-6 col-sm-6'>
