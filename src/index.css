@@ -1,0 +1,81 @@
+:root {
+  --body_background :white;
+  --body_color:black;
+  --link_color:navy;
+}
+
+[data-theme="dark"] {
+  background-color: #282c34;
+  --body_background :#282c34;
+  --body_color:#000000;
+  color: #ffffff !important;
+  --link_color:cyan;
+}
+[data-theme="dark"] .menu-box{
+  color: #fff;
+} 
+[data-theme="dark"] .topbar-fix{
+  background-color: #282c34 ;
+} 
+[data-theme="dark"] .task-dark{
+  color: #fff;
+} 
+[data-theme="dark"] .dark-drop{
+  background-color: #000;
+}
+[data-theme="dark"] .order-tabs{
+  color: #fff ;
+}
+[data-theme="dark"] .border-outline{
+  color: #fff ;
+  border: 0;
+  background-color: #3c3c3ce8;
+}
+[data-theme="dark"] .border-outline1{
+  color: #fff !important ;
+  border: 0;
+  background-color: #3c3c3ce8 !important;
+}
+[data-theme="dark"] .dash-drop{
+  color: #fff ;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  background-color: #3c3c3ce8;
+}
+[data-theme="dark"] .dark-white{
+  color: #fff  !important;
+}
+[data-theme="dark"] .trans-head{
+  color: #fff  !important;
+  background-color:#313131 !important;
+}
+[data-theme="dark"] .dash-per{
+  color: #007A7F  !important;
+}
+[data-theme="dark"] .rev-source{
+  background-color:#313131 !important;
+}
+[data-theme="dark"] .topItem-dash {
+  background-color:#313131 !important;
+  border: 1px solid #A8A8A8;
+}
+[data-theme="dark"] .recharts-rectangle {
+  fill: #BB86FC;
+}
+/* * {
+  transition: all 0.3s ease-in-out;
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,406 @@
+// $primary: #C2E9DD;
+$primary: #007A7F                                                                                                                               ;
+$primary1: #C2E9DD;
+$primary2: #9dc0d12b;
+$sec: #eb5160;
+$sec1: #D50000;
+$lt-primary: #f4f8ff;
+$lt-blue: #f1f7ff;
+$Blue: #4099FF;
+$Blue1: #0082ca;
+$lt-blue: #e9f0ff;
+$lt-blue1: #cde2fe;
+$lt-blue2: #f4f8ff;
+$lt-blue3: #ecfaff;
+$gray: #4E4E4E;
+$gray1:  #9A9A9A;
+$gray2: #252525;
+$gray3: #e5e5e5;
+$gray4: #252424;
+$gray5:#DCDCDC;
+$white: #FFFFFF;
+$black: #000000;
+$orange: #ff9a34;
+$lt-orange: #fff3e0;
+$red: #f82a2a;
+$pink: #fb457d;
+$pink1: #d9446f;
+$green:#3AE9AA;
+$greens: #009688;
+$green1:  #04D000;
+$green2:#1F8B6A;
+$soft-gray: #cacaca;
+$soft-gray1: #efefef;
+$yellow: #F6B82F;
+$dark-gray: #68738d;
+$font-blue: #344767;
+$icon-blue: #49d7f4;
+$back-blue: #e9f0ff;
+$soft-green: #eafbeb;
+$soft-primary: #b2c3e3;
+$soft-red: #f5e3e6;
+$inr: ₹;
+
+
+.primary2{
+  color: #9dc0d12b !important;
+}
+.bg-primary2{
+  background-color: #9dc0d12b !important;
+}
+.bg-black{
+  background-color: #000000;
+}
+.font-blue1{
+  color: #4ab3c8 !important;
+}
+.font-blue2{
+  color: #0b81acf5  !important;
+}
+.font-blue3{
+  color:#0e274f !important;
+}
+.err {
+  // color: #ff0000;
+  color: #df2a2a;
+}
+.black{
+  color: #000000;
+}
+.green2{
+  color: #1F8B6A;
+}
+.primary {
+  color: $primary !important;
+}
+.primary1 {
+  color: $primary1 !important;
+}
+.bg-soft-red {
+  background-color: $soft-red !important;
+}
+.yellow {
+  color: $yellow !important;
+}
+.orange1 {
+  color: #BA5C00 !important;
+}
+.bg-orange1 {
+  background-color: #BA5C00 !important;
+}
+.dark-gray {
+  color: $dark-gray !important;
+}
+.bg-soft-green {
+  background-color: $soft-green !important;
+}
+.bg-soft-primary {
+  background-color: $soft-primary !important;
+}
+.font-blue {
+  color: $font-blue !important;
+}
+.bg-yellow {
+  background-color: $yellow !important;
+}
+.sec {
+  color: $sec !important;
+}
+.back-blue {
+  color: $back-blue !important;
+}
+.bg-back-blue {
+  background-color: $back-blue !important;
+}
+.bg-lt-blue2 {
+  background-color: $lt-blue2 !important ;
+}
+.bg-lt-blue3 {
+  background-color: $lt-blue3 !important;
+}
+
+.icon-blue {
+  color: $icon-blue !important;
+}
+
+.bg-icon-blue {
+  background-color: $icon-blue !important;
+}
+.sec1 {
+  color: $sec1;
+}
+.orange {
+  color: $orange;
+}
+.lt-orange {
+  color: $lt-orange;
+}
+.blue{
+  color: $Blue;
+}
+.blue1 {
+  color: $Blue1 !important;
+}
+.soft-primary{
+  color: $soft-primary !important;
+}
+.soft-gray {
+  color: $soft-gray !important;
+}
+.pinks {
+  color: $pink !important;
+}
+.pink1 {
+  color: $pink1 !important;
+}
+.red{
+  color: $red !important;
+}
+.green{
+  color:$green !important;
+}
+.greens {
+  color: $greens !important;
+}
+.green1 {
+  color: $green1 !important;
+}
+
+.lt-Blue {
+  color: $lt-blue;
+}
+
+.lt-blue1 {
+  color: $lt-blue1;
+}
+
+.lt-blue2 {
+  color: $lt-blue2;
+}
+
+.white {
+  color: $white !important;
+}
+
+.gray {
+  color: $gray;
+}
+.gray1 {
+  color: $gray1;
+}
+
+.gray3 {
+  color: $gray3;
+}
+.gray4 {
+  color: $gray4;
+}
+
+.bg-primar {
+  background-color: $primary !important;
+}
+
+.bg-lt-primary {
+  background-color: $lt-primary !important;
+}
+
+.bg-primary1 {
+  background-color: $primary1 !important;
+}
+
+.bg-sec {
+  background-color: $sec !important;
+}
+
+.bg-sec1 {
+  background-color: $sec1 !important;
+}
+.bg-gradient {
+  background: linear-gradient($primary, $primary1) !important;
+}
+.bg-bg-dark {
+  background-color: $black !important;
+}
+
+.bg-darkBlue {
+  background-color: $Blue !important;
+}
+.bg-blue1 {
+  background-color: $Blue1 !important;
+}
+.bg-blue {
+  background-color: $Blue !important;
+}
+
+.bg-pinks {
+  background-color: $pink !important;
+}
+.bg-red {
+  background-color: $red !important;
+}
+
+.bg-pink1 {
+  background-color: $pink1 !important;
+}
+.bg-greens {
+  background-color: $greens !important;
+}
+
+.bg-green1 {
+  background-color: $green1 !important;
+}
+
+.bg-lt-blue {
+  background-color: $lt-blue !important;
+}
+
+.bg-lt-blue1 {
+  background-color: $lt-blue1 !important;
+}
+.bg-lt-blue2 {
+  background-color: $lt-blue2 !important;
+}
+.bg-gray {
+  background-color: $gray !important;
+}
+
+.bg-orange {
+  background-color: $orange !important;
+}
+.bg-lt-orange {
+  background-color: $lt-orange;
+}
+.bg-gray1 {
+  background-color: $gray1;
+}
+.bg-gray2 {
+  background-color: $gray2 !important;
+}
+
+.bg-soft-gray1 {
+  background-color: $soft-gray1 !important;
+}
+
+.bg-gray3 {
+  background-color: $gray3 !important;
+}
+
+.bg-gray4 {
+  background-color: $gray4 !important;
+}
+
+.bg-white {
+  background-color: $white;
+}
+
+.border-primar {
+  border: 2px solid $primary;
+}
+//
+
+$pending: #f0bc10;
+$lt-pending: #fdf4cd;
+$design: #f4a42b;
+$lt-design: #f9e5cc;
+$production: #6650a5;
+$lt-production: #dad2e9;
+$ready: #0f4f8d;
+$lt-ready: #d0e3f4;
+$approved: #67a84a;
+$lt-approved: #d8ead2;
+
+.pending {
+  color: $pending;
+}
+
+.lt-pending {
+  color: $lt-pending;
+}
+
+.design {
+  color: $design;
+}
+
+.lt-design {
+  color: $lt-design;
+}
+
+.ready {
+  color: $production;
+}
+
+.lt-ready {
+  color: $lt-production;
+}
+
+.ready {
+  color: $ready;
+}
+
+.lt-ready {
+  color: $lt-ready;
+}
+
+.approved {
+  color: $approved;
+}
+
+.lt-approved {
+  color: $lt-approved;
+}
+
+.bg-pending {
+  background-color: $pending;
+}
+
+.bg-lt-pending {
+  background-color: $lt-pending !important;
+}
+
+.bg-design {
+  background-color: $design;
+}
+
+.bg-soft-gray {
+  background-color: $soft-gray !important;
+}
+
+.bg-lt-design {
+  background-color: $lt-design !important;
+}
+
+.bg-ready {
+  background-color: $production;
+}
+
+.bg-lt-production {
+  background-color: $lt-production !important;
+}
+
+.bg-ready {
+  background-color: $ready;
+}
+
+.bg-lt-ready {
+  background-color: $lt-ready !important;
+}
+
+.bg-approved {
+  background-color: $approved !important;
+}
+
+.lt-approved {
+  color: $lt-approved;
+}
+.bg-lt-approved {
+  background-color: $lt-approved !important;
+}
+.text-Blue {
+  color: $Blue;
+}
+.border-gray-1 {
+  border: 1px solid #c7c7c7;
+}
+.border-primar-2 {
+  border: 2px solid $primary !important;
+}
